@@ -7,7 +7,7 @@ Automates repetitive daily tasks with custom rules.
 - Real-time progress monitoring dashboard
 
 # Version
-v1.0.3
+v1.3
 
 # License
 MIT License
